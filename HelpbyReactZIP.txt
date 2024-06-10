@@ -1,0 +1,15 @@
+How to find weather api?
+go to website https://home.openweathermap.org/api_keys
+
+How to find LocationTime?
+go to https://timezonedb.com/time-zones and search your timezone
+
+How to find location?
+Look for the name of the location, for example Bekasi
+
+If there is an error, how do I report it?
+reply to https://forum.cfx.re/t/free-standalone-lsi-sync-weather-time
+
+
+##### THIS CODE 100% MADE FROM 💓 FOR YOU ########
+
